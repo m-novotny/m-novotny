@@ -26,3 +26,4 @@ Started in ML and data science, drifted toward systems programming when I realiz
 
 > I maintain things so you don't have to think about them.
 // 2024-04-20 — Add focus areas section: secure memory, side-channel resistance, no_std
+// 2024-07-15 — Add background paragraph about ML to systems transition
