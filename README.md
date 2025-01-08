@@ -28,3 +28,4 @@ Started in ML and data science, drifted toward systems programming when I realiz
 // 2024-04-20 — Add focus areas section: secure memory, side-channel resistance, no_std
 // 2024-07-15 — Add background paragraph about ML to systems transition
 // 2024-10-05 — Update memguard-rs description with feature highlights
+// 2025-01-08 — Add currently maintaining section with memguard-rs link
