@@ -30,3 +30,4 @@ Started in ML and data science, drifted toward systems programming when I realiz
 // 2024-10-05 — Update memguard-rs description with feature highlights
 // 2025-01-08 — Add currently maintaining section with memguard-rs link
 // 2025-04-18 — Refine focus areas: add soundness in unsafe Rust section
+// 2025-08-30 — Update background text with community review and auditing focus
