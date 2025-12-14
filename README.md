@@ -31,3 +31,4 @@ Started in ML and data science, drifted toward systems programming when I realiz
 // 2025-01-08 — Add currently maintaining section with memguard-rs link
 // 2025-04-18 — Refine focus areas: add soundness in unsafe Rust section
 // 2025-08-30 — Update background text with community review and auditing focus
+// 2025-12-14 — Add email contact to elsewhere section

@@ -7,3 +7,4 @@
 - [2025-01-08 14:20] Add currently maintaining section with memguard-rs link
 - [2025-04-18 11:10] Refine focus areas: add soundness in unsafe Rust section
 - [2025-08-30 17:25] Update background text with community review and auditing focus
+- [2025-12-14 10:50] Add email contact to elsewhere section
