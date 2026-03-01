@@ -8,3 +8,4 @@
 - [2025-04-18 11:10] Refine focus areas: add soundness in unsafe Rust section
 - [2025-08-30 17:25] Update background text with community review and auditing focus
 - [2025-12-14 10:50] Add email contact to elsewhere section
+- [2026-03-01 13:40] Polish profile copy and fix markdown formatting in focus areas
