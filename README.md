@@ -33,3 +33,4 @@ Started in ML and data science, drifted toward systems programming when I realiz
 // 2025-08-30 — Update background text with community review and auditing focus
 // 2025-12-14 — Add email contact to elsewhere section
 // 2026-03-01 — Polish profile copy and fix markdown formatting in focus areas
+// 2026-05-22 — Add tagline quote at bottom of profile
