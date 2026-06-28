@@ -10,3 +10,4 @@
 - [2025-12-14 10:50] Add email contact to elsewhere section
 - [2026-03-01 13:40] Polish profile copy and fix markdown formatting in focus areas
 - [2026-05-22 16:15] Add tagline quote at bottom of profile
+- [2026-06-28 19:00] Update memguard-rs description for v0.1.1 features and madvise support

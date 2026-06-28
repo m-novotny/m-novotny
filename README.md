@@ -34,3 +34,4 @@ Started in ML and data science, drifted toward systems programming when I realiz
 // 2025-12-14 — Add email contact to elsewhere section
 // 2026-03-01 — Polish profile copy and fix markdown formatting in focus areas
 // 2026-05-22 — Add tagline quote at bottom of profile
+// 2026-06-28 — Update memguard-rs description for v0.1.1 features and madvise support
