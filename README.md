@@ -25,13 +25,3 @@ Started in ML and data science, drifted toward systems programming when I realiz
 ---
 
 > I maintain things so you don't have to think about them.
-// 2024-04-20 — Add focus areas section: secure memory, side-channel resistance, no_std
-// 2024-07-15 — Add background paragraph about ML to systems transition
-// 2024-10-05 — Update memguard-rs description with feature highlights
-// 2025-01-08 — Add currently maintaining section with memguard-rs link
-// 2025-04-18 — Refine focus areas: add soundness in unsafe Rust section
-// 2025-08-30 — Update background text with community review and auditing focus
-// 2025-12-14 — Add email contact to elsewhere section
-// 2026-03-01 — Polish profile copy and fix markdown formatting in focus areas
-// 2026-05-22 — Add tagline quote at bottom of profile
-// 2026-06-28 — Update memguard-rs description for v0.1.1 features and madvise support
